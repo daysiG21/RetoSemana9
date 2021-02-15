@@ -48,13 +48,13 @@
 .AppR{
   background: skyblue;  
   float: right;
-  width: 200px;
+  width: 20%;
   height: 500px;
 }
 
 .AppL{
   background: red;  
-  width: 200px;
+  width: 20%;
   height: 500px;   
   float: left;
 }
